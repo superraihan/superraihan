@@ -3,15 +3,15 @@
 
 
 ### Hi there 👋, I'm Raihan 
-#### Student | Coder | Content Creator
-![Student | Coder | Content Creator](https://miro.medium.com/v2/resize:fit:828/0*x4rQFjfi0iK3gS1T.gif)
+#### Student | Coder | Web developer 
+![Student | Coder | web developer](https://miro.medium.com/v2/resize:fit:828/0*x4rQFjfi0iK3gS1T.gif)
 
-I'm a first year student pursuing Computer Science and Engineering (CSE) at American International University-Bangladesh (AIUB)
+I'm a second year student pursuing Computer Science and Engineering (CSE) at American International University-Bangladesh (AIUB)
 
 Skills: C++ | JAVA | HTML 
 
 - 🔭 I’m currently working on AIUB Project 
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on Microsoft 
 
 
