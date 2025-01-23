@@ -6,7 +6,7 @@
 #### Student | Coder | Web developer 
 ![Student | Coder | web developer](https://miro.medium.com/v2/resize:fit:828/0*x4rQFjfi0iK3gS1T.gif)
 
-I'm a second year student pursuing Computer Science and Engineering (CSE) at American International University-Bangladesh (AIUB)
+I'm a  third year student pursuing Computer Science and Engineering (CSE) at American International University-Bangladesh (AIUB)
 
 Skills: C++ | JAVA | HTML 
 
