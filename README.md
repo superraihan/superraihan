@@ -6,6 +6,13 @@ I'm A **Third-Year Computer Science and Engineering (CSE) Student** At **America
 
 ---
 
+### 👀 **Profile Visitors**  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=superraihan&label=Visitors&color=blue&style=flat">
+</p>  
+
+---
+
 ### 🛠 **Programming Skills**  
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -33,12 +40,6 @@ I'm A **Third-Year Computer Science and Engineering (CSE) Student** At **America
 
 ---
 
-### 👀 **Profile Visitors**  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=superraihan&label=Visitors&color=blue&style=flat">
-</p>  
-
----
 
 ### 🏆 **GitHub Achievements**  
 <p align="center">
