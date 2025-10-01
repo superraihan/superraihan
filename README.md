@@ -1,60 +1,97 @@
-## Hi There 👋, It's Me Raihan 😊 
-### 🎓 Student | 💻 Software Engineer | 🚀 Developer  
-![Student | Software Engineer | Developer](https://miro.medium.com/v2/resize:fit:828/0*x4rQFjfi0iK3gS1T.gif)  
+<h1 align="center">👋 Hi, I'm Raihan Nibir</h1>
+<h3 align="center">AI Software Engineer | Research & Analysis | Software Innovation</h3>
 
-I'm A **Third-Year Computer Science and Engineering (CSE) Student** At **American International University-Bangladesh (AIUB)**. Passionate About **Software Engineering, Problem-Solving, And Scalable Applications**, I Enjoy Turning Ideas Into Reality Through Code.  
 
 ---
 
-### 👀 **Profile Visitors**  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=superraihan&label=Visitors&color=blue&style=flat">
-</p>  
+## 👨‍💻 About Me  
+🎓 **4th-Year CSE Student** at **American International University-Bangladesh (AIUB)**  
+💡 Passionate about **Artificial Intelligence, Research & Software Innovation**  
+🚀 Skilled in **AI/ML Model Development, Data Analysis, and Software Engineering**  
+🧠 Experienced with **Python, TensorFlow, PyTorch, MATLAB, C++**  
+📚 Pursuing a **research-driven approach**, bridging **theory with practical applications**  
+🎯 Goal → To become a leading **AI Software Engineer & Researcher** pushing the boundaries of intelligent systems.  
 
 ---
 
-### 🛠 **Programming Skills**  
+## 🛠 Tech Stack & Tools  
+
+**Core Skills**  
+- 🤖 Machine Learning & Deep Learning  
+- 📊 Data Analysis & Research  
+- 💻 Software Development  
+- ☁️ Cloud Computing  
+
+**Languages & Frameworks**  
+- Python | C++ | Java | JavaScript  
+- TensorFlow | PyTorch | Scikit-learn  
+- React | Node.js | Express | MongoDB  
+
+**Tools**  
+- Git & GitHub | VS Code | Jupyter Notebook  
+- MATLAB | Google Cloud / AWS  
+
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs,express,mongodb,mysql,tensorflow,pytorch,git,github,vscode,matlab&theme=dark" />
 </p>
 
 ---
 
-### 🚀 **Currently Working On**  
-- 🔭 **Developing a University Management System (C#)**  
-- 🌱 **Learning Advanced C# & Software Engineering Principles**  
-- 👯 **Looking To Collaborate On Microsoft-Related Projects**  
+## 📚 Research & Publications  
+- 📝 Ongoing research projects merging **AI with real-world problem solving**.  
+- 📖 Working towards contributions in **Wiley / IEEE / Arxiv publications**.  
+- 🔍 Focus areas: **Deep Learning, Data Analysis, Intelligent Systems**.  
 
 ---
 
-### 📫 **Connect with Me**  
+## ⚡ GitHub Insights  
+
 <p align="center">
-  <a href="https://github.com/superraihan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/raihan-nibir/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.facebook.com/RaihanNibir19"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/im_raihan_nibir/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.superraihan.xyz"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=icloud&logoColor=white"></a>
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=raihannibir&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raihannibir&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raihannibir&theme=radical" />
+</p>
 
 ---
 
+## 🏆 Achievements  
 
-### 🏆 **GitHub Achievements**  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=superraihan&theme=radical&margin-w=10&margin-h=10&column=7">
-</p>  
+  <img src="https://github-profile-trophy.vercel.app/?username=raihannibir&theme=darkhub&row=1&column=7" />
+</p>
 
 ---
 
-### 📊 **GitHub Stats**  
+## 🚀 Current Focus  
+🌱 Exploring **LLMs (Large Language Models)** & **Cloud AI**  
+⚡ Building AI-based real-world projects  
+📚 Preparing for **research publications**  
+
+---
+
+## 🌐 Connect With Me  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superraihan&layout=compact&theme=tokyonight&langs_count=6&hide_border=true">
-</p>  
+  <a href="https://www.linkedin.com/in/raihan-nibir/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="nibir777.bd@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.raihannibir.top">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=00F9A9" />
+  </a>
+</p>
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=superraihan&show_icons=true&theme=highcontrast&hide_border=true">
-</p>  
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=Fira%20Code" alt="Quote" />
+</p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=superraihan&theme=dark&hide_border=true">
-</p> 
+  🌱 *"Keep innovating, keep researching, keep building intelligent systems."* 🌱  
+</p>
