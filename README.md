@@ -25,7 +25,7 @@
 const raihan = {
     title: "AI Software Engineer",
     education: "B.Sc in CSE @ AIUB",
-    location: "Rangpur, Bangladesh 🇧🇩",
+    location: "Dhaka, Bangladesh 🇧🇩",
     status: "Available for Opportunities",
     
     expertise: [
@@ -303,7 +303,7 @@ Quick adaptation to new technologies and frameworks. Research-driven problem-sol
 ### 📧 Contact Information
 
 **Email:** nibir777.bd@gmail.com  
-**Location:** Rangpur, Bangladesh 🇧🇩  
+**Location:** Dhaka, Bangladesh 🇧🇩  
 **Status:** 🟢 Available for Opportunities  
 **Response Time:** ⚡ Within 24 hours
 
