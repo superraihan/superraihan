@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=200&section=header&text=RAIHAN%20NIBIR&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20ML%20Researcher%20|%20Software%20Innovator&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=200&section=header&text=RAIHAN%20NIBIR&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Software%20Engineer%20|%20Research%20Analysis%20|%20Software%20Innovation&descAlignY=55&descSize=20" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Transforming+Ideas+into+Intelligent+Solutions;Building+the+Future+with+AI+%26+Machine+Learning;Full-Stack+Developer+%7C+Research+Enthusiast)](https://git.io/typing-svg)
 
@@ -17,9 +17,9 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 ## 🎯 About Me
+
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```typescript
 const raihan = {
