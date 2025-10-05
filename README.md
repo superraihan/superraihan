@@ -198,25 +198,69 @@ Technologies:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=superraihan&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=superraihan&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6&sideLabels=E5E7EB" alt="GitHub Streak" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superraihan&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" alt="Most Used Languages" />
 </p>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=superraihan&custom_title=Contribution%20Activity&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=E5E7EB&area_color=3B82F6&area=true&theme=react-dark" alt="Contribution Graph" />
-</p>
+### 💻 Code Arsenal & Language Mastery
 
-### 🏆 GitHub Achievements
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br/><b>Python</b>
+<br/><sub>ML & AI Development</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br/><b>JavaScript</b>
+<br/><sub>Full-Stack Web</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br/><b>C++</b>
+<br/><sub>Algorithms & DSA</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br/><b>TypeScript</b>
+<br/><sub>Type-Safe Apps</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br/><b>Java</b>
+<br/><sub>Enterprise Solutions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br/><b>React</b>
+<br/><sub>UI Development</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br/><b>Node.js</b>
+<br/><sub>Backend Services</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br/><b>MongoDB</b>
+<br/><sub>NoSQL Databases</sub>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=superraihan&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+<br/>
 
-### 📈 Most Used Languages
-
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superraihan&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB&langs_count=10" alt="Top Languages" />
-</p>
+```python
+# My Programming Philosophy 🚀
+expertise = {
+    "primary": ["Python", "JavaScript", "C++"],
+    "frameworks": ["TensorFlow", "PyTorch", "React", "Node.js"],
+    "focus": "Building scalable AI solutions with clean code",
+    "motto": "Write code that humans can read, machines can execute"
+}
+```
 
 </div>
 
